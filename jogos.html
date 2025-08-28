@@ -146,8 +146,12 @@ Email: ${emailCliente}
 Endereço: ${enderecoCliente}
 Produto: ${produto}
 Valor: R$ ${valor}`);
+      
       modal.style.display = "none";
       formCompra.reset();
+
+      // Redirecionar para login.html
+      window.location.href = "login.html";
     });
 
     window.addEventListener("click", (e) => {
