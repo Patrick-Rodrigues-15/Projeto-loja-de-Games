@@ -8,12 +8,9 @@ O projeto Wolf Jogos Brasil é uma proposta de sistema desenvolvido para uma loj
 O sistema foi planejado para ser interativo, acessível e funcional, possibilitando que usuários explorem o catálogo, realizem login e avaliem a viabilidade da loja digital. A aplicação pode futuramente ser integrada com sistemas maiores e utilizados fora do ambiente educacional, ampliando o conhecimento técnico dos desenvolvedores e servindo como base para outros projetos comerciais.
 2. Objetivos do Projeto
 Objetivo Geral
-Desenvolver um sistema de apresentação e simulação de uma loja de games online, permitindo a visualização de produtos e testes de funcionalidades básicas como login, seleção de itens e status de usuário.
+Desenvolver um sistema de apresentação e simulação de uma loja de games online, permitindo a visualização de produtos e testes de funcionalidades básicas como seleção de itens e status de usuário.
 Objetivos Específicos
 Criar uma interface simples que simula a navegação por uma loja de games.
-
-
-Permitir login de visitantes e usuários cadastrados.
 
 
 Implementar o sistema de exibição de itens disponíveis.
@@ -22,28 +19,15 @@ Implementar o sistema de exibição de itens disponíveis.
 Utilizar a função select para simular a seleção e confirmação de itens.
 
 
-Identificar status de login (logado/não logado).
-
-
 Preparar o projeto para futura integração com sistemas reais de lojas.
 3. Funcionalidades Implementadas
 O sistema atualmente conta com as seguintes funcionalidades:
-Login (ou não login): O sistema permite ao usuário acessar a loja como visitante ou realizar login como usuário autenticado.
-
-
-Mensagem de login confirmado: Ao efetuar login com sucesso, o sistema exibe uma mensagem de confirmação.
 
 
 Função select: Utilizada para permitir ao usuário escolher e confirmar o item que deseja visualizar ou simular a compra.
 
 
 Exibição de itens disponíveis: O catálogo exibe os produtos da loja como jogos, consoles e acessórios.
-
-
-Status de login para visitante: O sistema informa se o visitante está logado ou não.
-
-
-Status de login para usuário: Também identifica e exibe o status de autenticação para usuários cadastrados.
 
 
 4. Tecnologias Utilizadas
@@ -56,7 +40,6 @@ CSS3 – Estilização da interface da loja.
 JavaScript – Interatividade e controle de lógica de login/seleção.
 
 
-(Futuramente: PHP e banco de dados podem ser integrados para armazenamento real de usuários e produtos).
 5. Público-Alvo
 Pequenas lojas de jogos que desejam iniciar um e-commerce.
 
@@ -81,7 +64,7 @@ Sistema de pagamento online.
 
 Design responsivo para dispositivos móveis.
 7. Considerações Finais
-Este portfólio representa um projeto inicial, com propósito educacional, mas com um olhar voltado ao mercado real. A TEC Jogos Brasil tem como visão proporcionar aos desenvolvedores e pequenos comerciantes uma base sólida para entrada no universo digital de vendas.
+Este portfólio representa um projeto inicial, com propósito educacional, mas com um olhar voltado ao mercado real. A Wolf Jogos Brasil tem como visão proporcionar aos desenvolvedores e pequenos comerciantes uma base sólida para entrada no universo digital de vendas.
 A atividade demonstra, ainda que em estágio inicial, como é possível utilizar ferramentas básicas para simular um e-commerce funcional, e abre portas para que os desenvolvedores possam continuar aprimorando suas habilidades.
 8. Créditos
 Desenvolvedores:
